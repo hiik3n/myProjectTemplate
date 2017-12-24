@@ -1,0 +1,2 @@
+# myProjectTemplate
+template for projects
